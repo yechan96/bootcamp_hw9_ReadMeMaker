@@ -1,4 +1,4 @@
-# Readme Maker
+# bootcamp_hw9_ReadMeMaker
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yechan96/bootcamp_hw9_ReadMeMaker)
 ## Description
 
@@ -28,7 +28,7 @@ npm install
 
 ## Usage
 
-Nothing Much
+nothing
 
 ## License
 
@@ -36,7 +36,7 @@ MIT
 
 ## Contributing
 
-Ask Owner
+ask owner
 
 ## Tests
 
