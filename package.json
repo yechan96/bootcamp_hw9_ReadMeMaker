@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/yechan96/bootcamp_hw9_RepoMaker#readme",
   "dependencies": {
-    "github.js": "0.0.1",
+    "github-api": "^3.3.0",
     "inquirer": "^7.0.6"
   }
 }
