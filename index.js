@@ -72,7 +72,7 @@ main();
 function readMeGen (input, user){
     var text =
 `# ${input.projectname}
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yechan96/bootcamp_hw9_ReadMeMaker)
+[![GitHub license](https://img.shields.io/badge/license-${input.license}-blue.svg)](https://github.com/yechan96/${input.projectname})
 ## Description
 
 ${input.description}
