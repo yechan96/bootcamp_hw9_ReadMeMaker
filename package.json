@@ -1,0 +1,23 @@
+{
+  "name": "repositorymaker",
+  "version": "1.0.0",
+  "description": "for bootcamp h9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yechan96/bootcamp_hw9_RepoMaker.git"
+  },
+  "author": "yechan lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yechan96/bootcamp_hw9_RepoMaker/issues"
+  },
+  "homepage": "https://github.com/yechan96/bootcamp_hw9_RepoMaker#readme",
+  "dependencies": {
+    "github.js": "0.0.1",
+    "inquirer": "^7.0.6"
+  }
+}
