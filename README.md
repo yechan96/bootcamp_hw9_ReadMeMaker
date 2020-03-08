@@ -40,7 +40,9 @@ Ask Owner
 
 ## Tests
 
+```
 npm run test
+```
 
 ## Questions
 
